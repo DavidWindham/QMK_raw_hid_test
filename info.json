@@ -1,0 +1,16 @@
+{
+    "keyboard_name": "screen",
+    "keyboard": "test_screen",
+    "url": "",
+    "maintainer": "DWin",
+    "width": 1,
+    "height": 1,
+    "keymap": "default",
+    "layouts": {
+        "LAYOUT_horizontal": {
+            "layout": [
+                { "x": 0, "y": 0 }
+            ]
+        }
+    }
+}
