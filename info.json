@@ -1,6 +1,6 @@
 {
-    "keyboard_name": "screen",
-    "keyboard": "test_screen",
+    "keyboard_name": "VCC",
+    "keyboard": "test_vcc",
     "url": "",
     "maintainer": "DWin",
     "width": 1,
